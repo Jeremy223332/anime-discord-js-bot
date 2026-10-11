@@ -1,0 +1,16 @@
+
+{
+  "name": "anime-nexus-bot",
+  "version": "1.0.0",
+  "description": "ANIME NEXUS Discord and VRChat community bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
